@@ -1,9 +1,9 @@
 <template>
   <main>
     <div class="intro">
-      <h1>Nuxt Toolbox</h1>
+      <h1>Ufabet25hr</h1>
       <p>
-        Hi 👋! This template gives you a
+        คาสิโนออนไลน์ระบบใหม่ ระบบฝาก-ถอน เร็วทันใจใน 3 วินาที
         <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
         <a href="https://www.netlify.com/products/functions/"
           >Netlify Functions</a
